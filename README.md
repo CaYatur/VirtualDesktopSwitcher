@@ -9,4 +9,4 @@ Windows sanal masaüstleri arasında geçiş yapmaya yarayan küçük araç (C#,
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
